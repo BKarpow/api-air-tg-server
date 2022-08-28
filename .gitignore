@@ -1,0 +1,7 @@
+.idea
+venv
+losses_files
+*.session
+*.session-journal
+*.log
+config.ini

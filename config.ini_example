@@ -1,0 +1,24 @@
+[Telegram]
+
+; Your app telegram id for telethon
+app_id = 
+
+; Your app telegram id for telethon
+app_hash = 
+
+; Your name session for telethon file session
+session_name = ApiTgServer
+
+; Telegram channel name with air alerts
+channel_air = air_alert_ua
+
+; Limit parse message for air alerts
+limit_message = 75
+
+; Telegram channel name for send combat losses
+losses_channel = 
+
+; aiohttp server params
+[Server]
+port = 8181
+host = 127.0.0.1
